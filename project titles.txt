@@ -1,0 +1,66 @@
+1. Library Management System
+Question: How can you design and implement a Library Management System that allows users to borrow and return books, search for books by various criteria, and manage user accounts?
+
+2. Banking System
+Question: How can you create a Banking System that handles multiple accounts, allows for deposits, withdrawals, and transfers, and provides account statements?
+
+3. Online Shopping Cart
+Question: How can you develop an Online Shopping Cart that lets users browse products, add them to a cart, and proceed to checkout with a summary of their order?
+
+4. Hotel Booking System
+Question: How can you build a Hotel Booking System that enables users to search for available rooms, make reservations, and manage their bookings?
+
+5. Student Information System
+Question: How can you design a Student Information System that stores and retrieves student data, manages course enrollments, and generates academic reports?
+
+6. Inventory Management System
+Question: How can you create an Inventory Management System that tracks product stock levels, manages suppliers, and generates reports on inventory status?
+
+7. Employee Management System
+Question: How can you build an Employee Management System that handles employee records, manages payroll, and tracks attendance?
+
+8. Chat Application
+Question: How can you develop a Chat Application that allows real-time messaging between users, supports group chats, and maintains message history?
+
+9. Parking Management System
+Question: How can you design a Parking Management System that tracks available parking spaces, allows users to reserve spots, and manages payment for parking?
+
+10. Airline Reservation System
+Question: How can you create an Airline Reservation System that enables users to search for flights, book tickets, and manage their travel itineraries?
+
+11. Weather Information System
+Question: How can you build a Weather Information System that fetches and displays real-time weather data for different locations, and provides weather forecasts?
+
+12. Quiz Application
+Question: How can you develop a Quiz Application that allows users to take quizzes on various topics, tracks scores, and provides feedback?
+
+13. Expense Tracker
+Question: How can you create an Expense Tracker that lets users record their expenses, categorize them, and generate reports on their spending patterns?
+
+14. Car Rental System
+Question: How can you design a Car Rental System that allows users to search for available cars, make reservations, and manage rental agreements?
+
+15. Food Delivery System
+Question: How can you build a Food Delivery System that lets users browse restaurants, order food, and track delivery status?
+
+
+
+
+1.Parking management system
+2.Bank management
+3.Employee management system
+4.Lift system
+5.Railway ticket booking application
+6.TAXI BOOKING SYSTEM
+7.GAMES(SUDOKO, N-QUEENS , KNIGHTS , SNAKE AND LADDER, Minesweeper, Breakout a.k.a. Arkanoid a.k.a. Brick-Breaker)
+8.Bus Ticket Booking System
+9.Elevator
+10.Flight Reservation system
+11.Chess tournament
+12.Mail server
+13.Invoice Management
+14.TOLL PAYMENT PROCESSING
+
+
+
+
